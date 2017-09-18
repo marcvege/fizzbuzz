@@ -1,10 +1,9 @@
 # fizzbuzz
 
-A Clojure library designed to ... well, that part is up to you.
+FizzBuzz Implementation. Based on https://twitter.com/ostfale/status/894975530365333505
 
 ## Usage
 
-FIXME
 
 ## License
 
